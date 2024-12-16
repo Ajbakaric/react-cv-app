@@ -78,7 +78,7 @@ Follow these steps to run the project locally:
 
 ## 🌐 Live Demo
 
-Check out the live version of the application here: [Live Demo](https://your-deployment-link.com)
+Check out the live version of the application here: [Live Demo](https://poetic-monstera-f17bff.netlify.app/)
 
 ---
 
